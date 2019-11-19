@@ -5,14 +5,17 @@
     "dev": "next",
     "build": "next build",
     "start": "next start"
-  }
+  },
   "main": "index.js",
   "repository": "https://github.com/john-raymon/a8-site.git",
   "author": "John Ray <john@trychec.com>",
   "license": "MIT",
   "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
     "next": "^9.1.3",
+    "node-sass": "^4.13.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "tailwindcss": "^1.1.3"
   }
 }
