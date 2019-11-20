@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "yarn build && next export"
   },
   "main": "index.js",
   "repository": "https://github.com/john-raymon/a8-site.git",
