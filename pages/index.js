@@ -1,12 +1,11 @@
-import css from "../styles/application.scss"
-import Link from 'next/link';
+import HeroSvg from '../components/HeroSvg'
+import Layout from '../components/DefaultLayout'
+import Link from 'next/link'
 
 const Hello = () => (
-  <div>
-    <Link href="/about">
-      About
-    </Link>
-  </div>
+  <Layout>
+    <HeroSvg />
+  </Layout>
 )
 
 export default Hello;
