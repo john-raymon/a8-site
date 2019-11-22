@@ -5391,13 +5391,13 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined
 }), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "/shaping-the-funnel",
-  className: "cursor-pointer",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 510
   },
   __self: undefined
 }, __jsx("g", {
+  className: "cursor-pointer",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 511
