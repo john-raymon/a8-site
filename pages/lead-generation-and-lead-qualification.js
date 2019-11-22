@@ -141,9 +141,9 @@ export default function index(props) {
             <h3 className="text-4xl py-10">
               Handing Off to Field Sales
             </h3>
-            <div className="flex justify-center mx-auto max-w-xs my-10">
+            <div className="mx-auto max-w-xs my-10">
               {/* image goes here */}
-              <img src="/media/image-06.png" width="70%" height="auto" />
+              <img src="/media/image-06.png" width="auto" height="auto" />
             </div>
             <p className="text-xl max-w-sm py-4 italic font-bold mx-auto text-center">
               How does the new process help field sales?

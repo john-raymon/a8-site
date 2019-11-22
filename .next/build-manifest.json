@@ -1,38 +1,38 @@
 {
-  "devFiles": [],
+  "devFiles": [
+    "static/development/dll/dll_7cf10ae8e2e0bf8792eb.js",
+    "static/development/dll/dll_7cf10ae8e2e0bf8792eb.js.map"
+  ],
   "pages": {
     "/": [
-      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
-      "static/css/commons.578706de.chunk.css",
-      "static/chunks/commons.7af890e56e105e6e58e8.js",
-      "static/runtime/main-ad0cf4a48138bf1a9c56.js"
+      "static/runtime/webpack.js",
+      "static/css/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/runtime/main.js"
     ],
     "/_app": [
-      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
-      "static/css/commons.578706de.chunk.css",
-      "static/chunks/commons.7af890e56e105e6e58e8.js",
-      "static/runtime/main-ad0cf4a48138bf1a9c56.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
-      "static/css/commons.578706de.chunk.css",
-      "static/chunks/commons.7af890e56e105e6e58e8.js",
-      "static/runtime/main-ad0cf4a48138bf1a9c56.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_polyfills": [
-      "static/runtime/polyfills-63d1f44da5f2006a551a.js"
+      "static/runtime/polyfills.js",
+      "static/runtime/polyfills.js.map"
     ],
     "/index": [
-      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
-      "static/css/commons.578706de.chunk.css",
-      "static/chunks/commons.7af890e56e105e6e58e8.js",
-      "static/runtime/main-ad0cf4a48138bf1a9c56.js"
+      "static/runtime/webpack.js",
+      "static/css/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/runtime/main.js"
     ],
-    "/lead-generation-and-lead-qualification": [
-      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
-      "static/css/commons.578706de.chunk.css",
-      "static/chunks/commons.7af890e56e105e6e58e8.js",
-      "static/runtime/main-ad0cf4a48138bf1a9c56.js"
+    "/shaping-the-funnel": [
+      "static/runtime/webpack.js",
+      "static/css/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/runtime/main.js"
     ]
   }
 }

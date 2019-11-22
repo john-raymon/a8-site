@@ -17828,7 +17828,7 @@ var Hello = function Hello() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!*************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjohn%2FDesktop%2Fmisc%2Fa8%2Fpages%2Findex.js ***!
   \*************************************************************************************************************************/
@@ -17851,5 +17851,5 @@ module.exports = dll_ce55a549e3439867a796;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js","styles"]]]);
+},[[0,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map
